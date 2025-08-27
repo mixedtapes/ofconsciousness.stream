@@ -53,7 +53,7 @@
   </header>
 
   <!-- Embed your Google Doc here -->
-  <iframe src="<iframe src="https://docs.google.com/document/d/e/2PACX-1vS6wvLu0-Mhk7vP0VL5gpoAWXRokk_VwofbQk1gi_CDb13PH68CLFW_Maqw153twt5inciGjmtjIbcB/pub?embedded=true"></iframe>"></iframe>
+  <iframe src=https://docs.google.com/document/d/e/2PACX-1vS6wvLu0-Mhk7vP0VL5gpoAWXRokk_VwofbQk1gi_CDb13PH68CLFW_Maqw153twt5inciGjmtjIbcB/pub?embedded=true"></iframe>
 
 </body>
 </html>
